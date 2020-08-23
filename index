@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title class="hometitle">Министр Магии</title>
+        <link rel="stylesheet" href="style.css">
+        <script>
+            let active = getElementById("active");
+            active.style.bgColor = "green";
+        </script>
+    </head>
+    <body>
+        <div>
+            <ul>
+              <img src="" class="imagelogo">
+              <li id="active"><a href="index.html">О нас</a></li>
+              <li><a href="statwi.html">Статьи</a></li>
+              <li><a href="podderwka.html">Помощь</a></li>
+            </ul>
+        </div>
+        <div class="osnova">
+           
+        </div>
+        <footer></footer>
+    </body>
+</html>
+
